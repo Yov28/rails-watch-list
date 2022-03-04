@@ -13,8 +13,6 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
-// Bootstrap import
-import "bootstrap";
 
 // Stimulus import
 import { Application } from "stimulus"
