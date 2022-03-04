@@ -14,9 +14,9 @@ Turbolinks.start()
 ActiveStorage.start()
 
 
-// Stimulus import
-import { Application } from "stimulus"
-import { definitionsFromContext } from "stimulus/webpack-helpers"
+// // Stimulus import
+// import { Application } from "stimulus"
+// import { definitionsFromContext } from "stimulus/webpack-helpers"
 
 
 // Stimulus
